@@ -74,3 +74,27 @@
     @apply bg-background text-foreground;
   }
 }
+.box1 {
+  background-image: linear-gradient(to left, #F8D688, #FDC8B3);
+  z-index: 9;
+}
+
+.box2 {
+  background-image: linear-gradient(to left, #D7C2F9, #92C5FC);
+  z-index: 4;
+}
+
+.box3 {
+  background-image: linear-gradient(to left, #72CDB6, #8ED5EF);
+  z-index: 5;
+}
+
+.box4 {
+  background-image: linear-gradient(to left, #1EA5E9, #7382C7);
+  z-index: 7;
+}
+
+
+.loginBox {
+  background-image: linear-gradient(to left, #7269ef, #a09cd1);
+}
